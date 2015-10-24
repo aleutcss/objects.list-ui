@@ -4,7 +4,15 @@
 
 /**
  * The UI list object creates blocky list items with a keyline separator out of
- * a `ul` or `ol`.
+ * a `ul` or `ol`, e.g.:
+ *
+   <ul class="o-list-ui o-list-ui--small">
+       <li class="o-list-ui__item">Foo</li>
+       <li class="o-list-ui__item">Bar</li>
+       <li class="o-list-ui__item">Baz</li>
+   </ul>
+ *
+ * Extend this object in your components.
  */
 
 // Predefine the variables below in order to alter and enable specific features.
