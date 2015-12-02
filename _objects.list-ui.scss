@@ -18,7 +18,7 @@
 // Predefine the variables below in order to alter and enable specific features.
 $inuit-list-ui-namespace:       $inuit-namespace !default;
 
-$inuit-list-ui-padding:         $inuit-base-spacing-unit !default;
+$inuit-list-ui-padding:         $spacing !default;
 $inuit-list-ui-padding--tiny:     quarter($inuit-list-ui-padding) !default;
 $inuit-list-ui-padding--small:      halve($inuit-list-ui-padding) !default;
 $inuit-list-ui-padding--large:     double($inuit-list-ui-padding) !default;
