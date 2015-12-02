@@ -1,5 +1,5 @@
 {
-  "name": "aleut-list-ui",
+  "name": "@aleut/aleut-list-ui",
   "version": "0.3.0",
   "description": "A simple, keyline-delimited list object (based on Harry Roberts inuitcss framework)",
   "main": "_objects.list-ui.scss",
