@@ -2,10 +2,8 @@
 
 The `list-ui` object creates blocky, keyline-delimited list items.
 
-Install using Bower:
 
-    $ bower install --save inuit-list-ui
 
 Install using npm:
 
-    $ npm install --save inuit-list-ui
+    $ npm install --save-dev aleut-list-ui
