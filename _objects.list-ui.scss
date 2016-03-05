@@ -32,20 +32,15 @@ $o-list-ui--large:   false !default;
 $o-list-ui--huge:    false !default;
 
 .o-list-ui,
-    .o-list-ui__item {
-        border: 0 $o-list-ui-border-style $o-list-ui-border-color;
-    }
+.o-list-ui__item {
+    border: 0 $o-list-ui-border-style $o-list-ui-border-color;
+}
 
 .o-list-ui {
     margin:  0;
     padding: 0;
     list-style: none;
     border-top-width: $o-list-ui-border-width;
-
-    > li {
-        border: 0 $o-list-ui-border-style $o-list-ui-border-color;
-    }
-
 }
 
     .o-list-ui__item {
