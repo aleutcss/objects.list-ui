@@ -19,6 +19,7 @@ Basic usage of the Block object uses the required classes:
 	<li class="o-list-ui__item">Baz</li>
 </ul>
 ```
+![Example of o-list-ui](https://github.com/aleutcss/Aleut/tree/gh-pages/public/img/o-list-ui.png)
 
 The only valid children of the `.o-list-ui` node are `.o-list-ui__item`.
 
@@ -37,6 +38,8 @@ For example:
 	<li class="o-list-ui__item">Baz</li>
 </ul>
 ```
+
+![Example of o-list-ui options](https://github.com/aleutcss/Aleut/tree/gh-pages/public/img/o-list-ui-options.png)
 
 ### Modify styling
 To modify the base styling you can change these variables and set them to your preferred options before you import the `_objects.list-ui.scss`-file.
