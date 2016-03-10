@@ -5,7 +5,8 @@ The `list-ui` object creates blocky, list items with lines between them.
 ## Install using npm:
 
 ```ssh
-    $ npm install --save-dev @aleut/objects.list-ui
+    $ npm install --save-dev aleut.objects.list-ui
+
 ```
 
 ## Usage
